@@ -1,0 +1,15 @@
+---
+layout: page
+permalink: /Bio/
+title: Bio
+nav: true
+nav_order: 5
+
+---
+
+<!-- ![image alt >](../assets/img/prof_pic.jpg) -->
+[Bishwamittra Ghosh](https://bishwamittra.github.io) is a PhD candidate in School of Computing, National University of Singapore. His research interest is on fairness and interpretability in machine learning. He applies automated reasoning, formal methods, and statistics to improve fairness and interpretability in machine learning. His research has thrived through multiple collaborations and internships in industry and academia. He has published papers at premier conferences and journals in artificial intelligence and machine learning (AAAI-2022, 2021, 2020, JAIR-2022, ECAI-2020, AIES-2019) and databases (VLDB-2018, TSAS-2022). He has presented a brief version of this tutorial at Max Planck Institute for Software Systems in Germany, INRIA, France, and SAT/SMT winter school (2022), India.
+
+
+
+[Debabrota Basu](https://debabrota-basu.github.io) holds the Starting Faculty Position (equivalent of Assoc.\ Prof.)\ in the Scool team (previously Sequel) of Inria at Universit\'e de Lille and CNRS, France. His research interest is developing algorithms and analysis to build theoretically-grounded responsible AI systems. Specially, he studies how to develop robust, private, fair, and explainable algorithms for online learning, bandits, and reinforcement learning problems. His research work has thrived through international collaborations and mentorship in industry and academia. He has published papers at premier conferences and journals in AI and machine learning (AAAI, NeurIPS, AISTATS, UAI, ECML-PKDD), robotics (RAS), and databases and computing systems (VLDB, SIGMOD, IEEE TPDS, ICDCS). He has also served as program committee member and editorial committee member of several ML and AI venues. French National Research Agency (ANR) has bestowed the young researcher (JCJC) award for his work on responsible AI. His work on studying collective meritocracy in college admissions obtained Best Paper with Student presenter award at ACM EAAMO 2022. He has communicated the concerns of bias, fair ML algorithms, and his solutions for auditing algorithmic systems by several talks in Indian Statistical Institute, India, \'Ecole normale sup\'erieure, Paris, \'Ecole polytechnique, France, Chalmers University, Sweden, writing newspaper articles, and organising the Fairness in Machine Learning seminar series. He is also working with the Inria pilot project team `Regalia', which is supported by the French government to regulate digital platforms. For least three years, he has been teaching the Responsible AI course for the Masters students in Data Science and AI in Centrale Lille and University of Lille. He also conducts the final year masters course on Privacy and Anonymity in University of Paris Science and Letters (PSL). He has also presented a brief version of this tutorial at Valda seminar series of \'Ecole normale sup\'erieure, Paris, and the Ethical AI workshop of \'Ecole polytechnique, France. 
