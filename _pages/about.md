@@ -31,7 +31,7 @@ In this tutorial, we discuss algorithmic developments and existing software to
 
 We conclude the conundrum or open it for the audience through a case-study of auditing an ML classifier.
 
-# Speakers
+## Speakers
 
 <div class="container" style="margin-bottom:1cm;">
   <div class="row">
