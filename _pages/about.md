@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-suititle: <a href='https://ijcai-23.org/'>IJCAI 2023, Macao</a>
+subtitle: <b>Tutorial at <a href='https://ijcai-23.org/'>IJCAI 2023</a>, Macao</b>
 
 # profile:
 #   align: right
@@ -13,7 +13,7 @@ suititle: <a href='https://ijcai-23.org/'>IJCAI 2023, Macao</a>
 #     <p>123 your address street</p>
 #     <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
