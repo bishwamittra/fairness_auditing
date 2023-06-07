@@ -21,9 +21,9 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-# "Auditing Bias of Machine Learning Algorithms: Tools and Overview"
+# <b><b>Auditing Bias of Machine Learning Algorithms: Tools and Overview</b></b>
 
-## <b>Tutorial at <a href='https://ijcai-23.org/'>IJCAI 2023</a>, Macao</b>
+### <b>Tutorial at <a href='https://ijcai-23.org/'>IJCAI 2023</a>, Macao</b>
 
 Any publicly used technology presently undergoes an audit mechanism, where we aim to understand the impacts and limitations of using that technology, and why they are caused. As Machine Learning (ML) is becoming the pervasive technology of our time and the discourse on bias induced by ML systems is attracting attention, it is a genuine concern to understand how to audit an ML system. 
 
@@ -35,6 +35,26 @@ In this tutorial, we discuss algorithmic developments and existing software to
 
 We conclude the conundrum or open it for the audience through a case-study of auditing an ML classifier.
 
+## Resources
+
+<table>
+<tr>
+<td>Part 1: Choose your fairness metric</td>
+<td> <a href=" ">slides</a> </td> <td> <a href=" ">video</a> </td></tr>
+<tr>
+<td>Part 2: Choose your fairness metric</td>
+<td> <a href=" ">slides</a> </td> <td> <a href=" ">video</a> </td></tr>
+<tr>
+<td>Part 3: Choose your fairness metric</td>
+<td> <a href=" ">slides</a> </td> <td> <a href=" ">video</a> </td></tr>
+<tr>
+<td>Part 4:  A case study and open problems</td>
+<td> <a href=" ">slides</a> </td> <td> <a href=" ">video</a> </td>
+</tr>
+</table>
+
+A summary of the above material is compiled as a note <a href=" ">here</a>.
+
 ## Speakers
 
 <div class="container" style="margin-bottom:1cm;">
@@ -42,9 +62,9 @@ We conclude the conundrum or open it for the audience through a case-study of au
 <div class="col-sm-6 col-md-3">
 <img alt="image" width="140px" src="assets/img/bg.jpg" class="img-responsive" align="center">
 </div>
-    <div class="col-sm-6 col-md-9">
+<div class="col-sm-6 col-md-9">
 <a href='https://bishwamittra.github.io'>Bishwamittra Ghosh</a> is a PhD candidate in School of Computing, National University of Singapore. His research interest is on fairness and interpretability in machine learning. He applies automated reasoning, formal methods, and statistics to improve fairness and interpretability in machine learning. His research has thrived through multiple collaborations and internships in industry and academia. 
-    </div>
+</div>
   </div>
 </div>
 
