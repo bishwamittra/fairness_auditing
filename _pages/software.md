@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Selected Papers
+title: Software
 description: publications by categorized in reversed chronological order. 
 years: [2023, 2022, 2021, 2020, 2019, 2018, 2017]
 nav: true
