@@ -42,10 +42,10 @@ We conclude the conundrum or open it for the audience through a case-study of au
 <td>Part 1: Choose your fairness metric</td>
 <td> <a href=" ">slides</a> </td> <td> <a href=" ">video</a> </td></tr>
 <tr>
-<td>Part 2: Choose your fairness metric</td>
+<td>Part 2: Estimate your fairness metric</td>
 <td> <a href=" ">slides</a> </td> <td> <a href=" ">video</a> </td></tr>
 <tr>
-<td>Part 3: Choose your fairness metric</td>
+<td>Part 3: Attribute the fairness metric to features/input</td>
 <td> <a href=" ">slides</a> </td> <td> <a href=" ">video</a> </td></tr>
 <tr>
 <td>Part 4:  A case study and open problems</td>
