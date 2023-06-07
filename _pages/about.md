@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: <b>Tutorial at <a href='https://ijcai-23.org/'>IJCAI 2023</a>, Macao</b>
 
@@ -12,6 +12,7 @@ subtitle: <b>Tutorial at <a href='https://ijcai-23.org/'>IJCAI 2023</a>, Macao</
 #     <p>555 your office number</p>
 #     <p>123 your address street</p>
 #     <p>Your City, State 12345</p>
+# "Auditing Bias of Machine Learning Algorithms: Tools and Overview"
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
