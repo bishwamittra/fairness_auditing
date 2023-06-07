@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <b>Tutorial at <a href='https://ijcai-23.org/'>IJCAI 2023</a>, Macao</b>
+subtitle: 
 
 # profile:
 #   align: right
@@ -12,7 +12,6 @@ subtitle: <b>Tutorial at <a href='https://ijcai-23.org/'>IJCAI 2023</a>, Macao</
 #     <p>555 your office number</p>
 #     <p>123 your address street</p>
 #     <p>Your City, State 12345</p>
-# "Auditing Bias of Machine Learning Algorithms: Tools and Overview"
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -21,6 +20,10 @@ social: true  # includes social icons at the bottom of the page
 
 
 ---
+
+# "Auditing Bias of Machine Learning Algorithms: Tools and Overview"
+
+## <b>Tutorial at <a href='https://ijcai-23.org/'>IJCAI 2023</a>, Macao</b>
 
 Any publicly used technology presently undergoes an audit mechanism, where we aim to understand the impacts and limitations of using that technology, and why they are caused. As Machine Learning (ML) is becoming the pervasive technology of our time and the discourse on bias induced by ML systems is attracting attention, it is a genuine concern to understand how to audit an ML system. 
 
